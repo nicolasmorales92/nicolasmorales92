@@ -79,7 +79,7 @@ Aplicación robusta y escalable que funciona como **gestor de turnos médicos**,
 
 ## 🎓 Educación
 
-**Soy Henry – Bootcamp Full Stack Web Developer (2025)**  
+**Soy Henry – Bootcamp Full Stack Web Developer (2026)**  
 ✔ Más de **800 horas** de programación intensiva  
 ✔ JavaScript, React, Node.js, PostgreSQL  
 ✔ Metodologías ágiles (**SCRUM**)
