@@ -11,7 +11,7 @@
 
 Soy **Desarrollador Backend Junior** con experiencia en **NestJS, TypeScript, Node.js y TypeORM**, trabajando con bases de datos **SQL (MySQL / PostgreSQL)** y **MongoDB**.
 
-Cuento además con conocimientos en **React, JavaScript, HTML y CSS**, lo que me permite comprender el **flujo completo de aplicaciones web**, facilitando la comunicación entre frontend y backend.
+Cuento además con conocimientos en **React, JavaScript, NextJS HTML y CSS**, lo que me permite comprender el **flujo completo de aplicaciones web**, facilitando la comunicación entre frontend y backend.
 
 Me destaco por la **organización**, la **capacidad de análisis** y el **trabajo colaborativo**, aportando soluciones técnicas y buenas prácticas en entornos de desarrollo en equipo.
 
@@ -22,6 +22,7 @@ Me destaco por la **organización**, la **capacidad de análisis** y el **trabaj
 ### 🎨 Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
