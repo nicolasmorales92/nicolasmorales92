@@ -76,6 +76,13 @@ Aplicación robusta y escalable que funciona como **gestor de turnos médicos**,
 
 🔗 **Demo:** https://vita-red-app.vercel.app
 
+
+### 🏥 Juan-Parfum
+**E-commerce (2026)**
+
+Plataforma e-commerce completa orientada a la venta y comercialización de decants de perfumería. La aplicación ofrece una experiencia de navegación optimizada, filtrado dinámico en tiempo real, autenticación segura de usuarios, gestión de carrito de compras e integración con pasarela de pagos.
+
+🔗 **Demo:** https://juanparfum.vercel.app/
 ---
 
 ## 🎓 Educación
@@ -100,5 +107,5 @@ Aplicación robusta y escalable que funciona como **gestor de turnos médicos**,
 ---
 
 <p align="center">
-  🚀 Abierto a nuevos desafíos como desarrollador backend 🚀
+  🚀 Abierto a nuevos desafíos como desarrollador backend. 🚀
 </p>
